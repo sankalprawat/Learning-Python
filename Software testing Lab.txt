@@ -1,0 +1,10 @@
+Q12. Write the test  case on ATM based application.
+Q13. Write the test cases on banking application.
+Q14. Write the test case on Library management System.
+
+
+Test cases :
+
+1.Check the compile time error.
+2.Check the correct input, then corresponding correct output.
+3.Check the incorrect input, then what will be the output.

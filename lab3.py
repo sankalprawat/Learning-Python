@@ -4,7 +4,7 @@ for i in range(len(list1)):
     if number == list1[i]:
         print("Given number is of index :", i)
         break
-    else:
-        print("The number is not given in list.")
+else:
+    print("The number is not given in list.")
 
 
